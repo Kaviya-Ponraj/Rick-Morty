@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.ubuntu {
+  font-family: "Ubuntu" !important;
+}
+
+.active{
+  border-bottom : 3px solid #0b5ed7;
+  font-weight : bold;
+  color: #0b5ed7 !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
